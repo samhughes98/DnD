@@ -216,12 +216,13 @@ body {
 }
 
 #loginDiv {
-    display: none;
+    display: block;
     background-color:#282C2F;
     height:30vh;
     width:10vw;
     font-size: 0.5em;
     margin-top:4vh;
+    margin-left: -2vw !important;
     position: absolute !important;
     z-index: 9999;
 }
